@@ -6,7 +6,7 @@ import router from "./routes";
 
 const app = express();
 
-const allowedOrigins = ["http://localhost:3000", "https://www.drskserjina.com"];
+const allowedOrigins = ["http://localhost:3000", "https://gm-saud-overseas.vercel.app"];
 
 // global middleware configuration
 app.use(
